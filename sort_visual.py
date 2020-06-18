@@ -10,7 +10,7 @@ def swap(pos_0, pos_1):
 
 worker = None 
 
-#Insertion Sort
+#Insertion Sort  
 def _insertion_sort():
     global barList
     global lengthList
